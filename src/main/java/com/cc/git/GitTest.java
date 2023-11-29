@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Git4 你好。。。");
         System.out.println("version 更新成功");
         System.out.println("master更新成功..............");
+        System.out.println("version2..............");
     }
 }
